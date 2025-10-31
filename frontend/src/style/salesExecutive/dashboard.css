@@ -28,7 +28,7 @@ body {
 /* === DATA WRAP (HOLDING BOXES) === */
 #data-wrap {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   flex-wrap: wrap;
   gap: 20px;
   /* width: 100%; */
